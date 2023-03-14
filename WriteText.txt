@@ -1,0 +1,166 @@
+{
+  "ehchOnes": [
+    "SEO that delivers ROI",
+    "Interested? Let\u0027s work together."
+  ],
+  "etchtwos": [
+    "Or Book a Free Strategy Call",
+    "A unique approach to link building and content strategy",
+    "Talk with our team \u00BB",
+    "",
+    "Our Solutions",
+    "Learn more about our services \u00BB",
+    "Read more about our proprietary technology \u00BB",
+    "Or Book a Free Strategy Call",
+    "Latest from our Resources",
+    "GainChanger",
+    "Resources"
+  ],
+  "ps": [
+    "Specialised SEO services and automation. We generate organic traffic through successful content strategy and link building. Our strategic approach delivers long-term growth.",
+    "We align with your business goals to create search campaigns that are scalable and automated. With a proven track record on securing top positions on competitive keywords, we can help your business grow consistently in both conversions and revenue.",
+    "",
+    "",
+    "",
+    "End-to-End SEO Services",
+    "We are equipped to make accurate, data-driven decisions for you, handling your link building and content strategy from A to Z. Depending on your requirements, we can do so autonomously or by working together with your existing team.",
+    "SEO Automation",
+    "As a technology company, our development team strives to design and enhance our proprietary SEO tools, catering for the needs of our clients. Join our community and establish your position as a leading player in your industry.",
+    "Simon Bonello and Sean Bianco, Founders of GainChanger, share a passion for technology.",
+    "Choose GainChanger as your digital partner and get ahead of your competition with our data-driven approach and proprietary technology.",
+    "Gain Changer Ltd \u00A9 All rights reserved. Privacy Policy | Cookie Policy"
+  ],
+  "metas": [
+    {
+      "charset": "UTF-8",
+      "name": "",
+      "content": ""
+    },
+    {
+      "charset": null,
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1.0, viewport-fit=cover"
+    },
+    {
+      "charset": null,
+      "name": "robots",
+      "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    },
+    {
+      "charset": null,
+      "name": "description",
+      "content": "Digital marketing agency: SEO services and automation. We generate organic traffic through successful content strategy and link building."
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "en_GB"
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "website"
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "SEO that delivers ROI"
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "Specialised SEO services and automation. We generate organic traffic through successful content strategy and link building. Our strategic approach delivers long-term growth."
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "https://www.gainchanger.com/"
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "GainChanger"
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "2023-02-27T14:36:44\u002B00:00"
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "https://www.gainchanger.com/wp-content/uploads/2022/11/GainChanger-Branding.png"
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "1280"
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "720"
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "image/png"
+    },
+    {
+      "charset": null,
+      "name": "twitter:label1",
+      "content": "Estimated reading time"
+    },
+    {
+      "charset": null,
+      "name": "twitter:data1",
+      "content": "19 minutes"
+    },
+    {
+      "charset": null,
+      "name": "google-site-verification",
+      "content": "D57wRDfSh_fffCUL9cVPDGq7UGQKQOxlq76y2RneRG0"
+    },
+    {
+      "charset": null,
+      "name": "generator",
+      "content": "WordPress 6.0.3"
+    },
+    {
+      "charset": null,
+      "name": "generator",
+      "content": "Elementor 3.11.5; settings: css_print_method-external, google_font-enabled, font_display-auto"
+    },
+    {
+      "charset": null,
+      "name": "msapplication-TileImage",
+      "content": "https://www.gainchanger.com/wp-content/uploads/2022/11/cropped-GainChanger_Logomark_Black_RGB_padding-270x270.png"
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "Az6AfRvI8mo7yiW5fLfj04W21t0ig6aMsGYpIqMTaX60H\u002Bb0DkO1uDr\u002B7BrzMcimWzv/X7SXR8jI\u002BuvbV0IJlwYAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "A\u002BUSTya\u002BtNvDPaxUgJooz\u002BLaVk5hPoAxpLvSxjogX4Mk8awCTQ9iop6zJ9d5ldgU7WmHqBlnQB41LHHRFxoaBwoAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "A7FovoGr67TUBYbnY\u002BZ0IKoJbbmRmB8fCyirUGHavNDtD91CiGyHHSA2hDG9r9T3NjUKFi6egL3RbgTwhhcVDwUAAACLeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv\u002BVaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"
+    },
+    {
+      "charset": null,
+      "name": "",
+      "content": "A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv\u002BVaE6wavgTY0QHkDvUTET1o7HanhuJO8lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjgwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"
+    }
+  ],
+  "title": "GainChanger: SEO Services, Audits, Content \u0026 Link Building"
+}
